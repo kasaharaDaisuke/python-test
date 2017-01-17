@@ -1,52 +1,19 @@
 {
     "assets": {
-        ".": {
+        "res/kowainihonmukasibanasi-180x120.png": {
             "compressed": false, 
-            "md5": 1484603325.9566138, 
-            "update": "2017-01-16 16:48:45"
+            "md5": 1484622321.7630532, 
+            "update": "2017-01-16 22:05:21"
         }, 
-        "./assetsex": {
+        "src/test.lua": {
             "compressed": false, 
-            "md5": 1484621960.1403139, 
-            "update": "2017-01-16 21:59:20"
-        }, 
-        "./assetsex/project.manifest": {
-            "compressed": false, 
-            "md5": 1484621660.2207, 
-            "update": "2017-01-16 21:54:20"
-        }, 
-        "./assetsex/project.manifest.json": {
-            "compressed": false, 
-            "md5": 1484603325.9566138, 
-            "update": "2017-01-16 16:48:45"
-        }, 
-        "./assetsex/version.manifest": {
-            "compressed": false, 
-            "md5": 1484621990.471376, 
-            "update": "2017-01-16 21:59:50"
-        }, 
-        "./gn_assetsex.py": {
-            "compressed": false, 
-            "md5": 1484622052.0455017, 
-            "update": "2017-01-16 22:00:52"
-        }, 
-        "./main.py": {
-            "compressed": false, 
-            "md5": 1484603325.9566138, 
-            "update": "2017-01-16 16:48:45"
-        }, 
-        "res/addfile.gif": {
-            "compressed": false, 
-            "md5": "xxxx"
-        }, 
-        "res/ui/test.gif": {
-            "compressed": false, 
-            "md5": "xxxx_testgif"
+            "md5": 1484622239.2348845, 
+            "update": "2017-01-16 22:03:59"
         }
     }, 
     "engineVersion": "3.14", 
     "packageUrl": "http://example.com/assetsex/v1", 
     "remoteManifestUrl": "http://example.com/assetsex/v1/project.manifest", 
     "remoteVersionUrl": "http://example.com/assetsex/v1/version.manifest", 
-    "version": 1484622052.0455017
+    "version": 1484622321.7630532
 }
