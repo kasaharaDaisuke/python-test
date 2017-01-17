@@ -1,0 +1,7 @@
+{
+    "engineVersion": "3.14", 
+    "packageUrl": "http://example.com/assetsex/v1", 
+    "remoteManifestUrl": "http://example.com/assetsex/v1/project.manifest", 
+    "remoteVersionUrl": "http://example.com/assetsex/v1/version.manifest", 
+    "version": 1484622052.0455017
+}
