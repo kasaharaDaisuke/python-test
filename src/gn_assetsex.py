@@ -41,17 +41,15 @@ with open("assetsex/project.manifest", "r") as json_file:
   json_data = json.load(json_file)  
   json_data["version"] = version
   json_data["assets"] = {}
-#  json_data["assets"]["res/addfile.gif"] = {"md5":"xxxx","compressed":False}
-#  json_data["assets"]["res/ui/test.gif"] = {"md5":"xxxx_testgif","compressed":False}
   
   for file in as_files:
     json_data['assets'][file] = as_files[file]
-  
-#  print json.dumps(json_data, sort_keys=True, indent=4)
+
 
 # JSONファイル書き込み
 with open('assetsex/project.manifest', 'w') as f:
     json.dump(json_data, f, sort_keys=True, indent=4)
 
 
+# 内容の確認
 print json.dumps(json_data, sort_keys=True, indent=4)
